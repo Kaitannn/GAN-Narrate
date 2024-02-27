@@ -8,3 +8,8 @@ This effort focuses on the viability of using a modified GAN framework to genera
 3) Feature Z will be combined with Input Image X, and result in Combined Image Y. The CNN model will be called again to assess Combined Image Y, returning the predicted class label of the image as well as of the confidence of the prediction. 
 
 ## Principle 
+An active learning approach is utilised in GAN-narrate with Input Image X being used as a constant reinforcement learning guide during the iterative gradient descent of Feature GAN’s backpropagation. This considers that Feature GAN comprising of two neural network models: the Feature Generator Model and the Discriminator Model, related through: 
+
+![Capture](https://github.com/Kaitan1995/GAN-Narrate/assets/93040738/964f867e-570f-4c65-9f99-5796fbfe2007)
+
+Where G(z) refers to the Feature Generator Model creating an output (that we can designate x_feature) onto a random input latent vector, z. D(x) refers to the Discriminator Model that receives an input (x_feature or x_truth) and attempts to discriminate between 2 conditions: x_feature or x_truth outputting a binary discrete condition of TRUE or FALSE. This paper approaches continuously inserting of an enumerating layer reflecting Input Image X appended onto the x_feature, manipulating the Discriminator model losses to accrue through a criterion whenever it fails to account for the modified x_feature. 
