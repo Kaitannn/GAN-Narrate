@@ -60,10 +60,10 @@ All experimentations were performed with the following hardware considerations: 
 ## Testing of ‘Dashed Across’-Type Damage
 This occurs when there is a thin smudge that removes features from an existing handwritten digit and runs a significant length of the digit.
 
-### ‘Dashed Across’-type damage repaired with GAN-narrate: k) Input Image X with ‘dashed across’-type damage
+### ‘Dashed Across’-type damage repaired with GAN-narrate: Input Image X with ‘dashed across’-type damage
 ![image](https://github.com/Kaitan1995/GAN-Narrate/assets/93040738/d177d2dd-3d8c-4801-99eb-f892f3f634b2)
 
-### Combined Image Y, after being repaired by GAN-narrate
+### ‘Dashed Across’-type damage repaired with GAN-narrate: Combined Image Y, after being repaired by GAN-narrate
 ![image](https://github.com/Kaitan1995/GAN-Narrate/assets/93040738/5172c95c-86c2-4c9c-af2b-5cad3f2e4eb1)
 
 ### Success and Failure cases for GAN-narrate’s ability to repair ‘dashed across’-type damage in 100 examples
