@@ -1,0 +1,6 @@
+numpy==1.26.4
+pandas==2.2.1
+matplotlib==3.8.3
+nuitka==2.0.4
+torch==2.2.1
+torchvision==0.17.1
