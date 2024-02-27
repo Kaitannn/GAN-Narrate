@@ -69,6 +69,56 @@ This occurs when there is a thin smudge that removes features from an existing h
 ### Success and Failure cases for GAN-narrate’s ability to repair ‘dashed across’-type damage in 100 examples
 ![image](https://github.com/Kaitan1995/GAN-Narrate/assets/93040738/566a6bb6-c317-4ff4-9927-1778e751c321)
 
+## Testing of Speckled-Type Damage
+This occurs when there is a loss of features not necessarily confined to a particular area of the image but throughout the handwritten subject.
+
+### Speckled-type damage repaired with GAN-narrate: Input Image X with speckled-type damage
+![image](https://github.com/Kaitan1995/GAN-Narrate/assets/93040738/10498e81-93f1-41a3-bc70-c9762b99ab0e)
+
+### Speckled-type damage repaired with GAN-narrate: Combined Image Y, after being repaired by GAN-narrate
+![image](https://github.com/Kaitan1995/GAN-Narrate/assets/93040738/3b365a99-2d9a-49d1-881a-a0e53685172a)
+
+### Success and Failure cases for GAN-narrate’s ability to repair speckled-type damage in 100 examples
+![image](https://github.com/Kaitan1995/GAN-Narrate/assets/93040738/99242fdd-5ed7-4a5c-96c9-100c75297a7e)
+
+## Testing of Smudging-Type Damage
+This refers to a loss of features from the existing handwritten digit being significant in terms of width
+
+### Smudging-type damage repaired with GAN-narrate: Input Image X with smudging-type damage 
+![image](https://github.com/Kaitan1995/GAN-Narrate/assets/93040738/47962488-5750-4074-99f1-2a9392ee455c)
+
+### Smudging-type damage repaired with GAN-narrate: Combined Image Y, after being repaired by GAN-narrate
+![image](https://github.com/Kaitan1995/GAN-Narrate/assets/93040738/b8a0f978-7f80-4bf2-b16a-a393eddbf063)
+
+### Success and Failure cases for GAN-narrate’s ability to repair smudging-type damage in 100 examples
+![image](https://github.com/Kaitan1995/GAN-Narrate/assets/93040738/b600b4bd-e947-4155-b617-a8d80b8bd885)
+
+## Testing of Noise-Type Damage
+This occurs when there are additional handwritten features (noise) that adversely affects and do not contribute to the discernability of the handwritten digit.
+
+### Noise-type damage repaired with GAN-narrate: Input Image X with noise-type damage
+![image](https://github.com/Kaitan1995/GAN-Narrate/assets/93040738/6cd16405-06ea-4697-80bd-79ed9040f5c7)
+
+### Noise-type damage repaired with GAN-narrate: Combined Image Y, after being repaired by GAN-narrate
+![image](https://github.com/Kaitan1995/GAN-Narrate/assets/93040738/395e1612-ae9a-4ea8-b8d8-22d9da3b5395)
+
+### Success and Failure cases for GAN-narrate’s ability to repair noise-type damage in 100 examples
+![image](https://github.com/Kaitan1995/GAN-Narrate/assets/93040738/da8b55e2-493f-46df-a506-f8563bdd8246)
+
+## Results and Findings
+GAN-narrate is able to perform in the capacity of detection, assessment, generation of repair features, usage of features to repair the subject image and re-assessment of the subject image. A result of the experiments found that with the current holding parameters, 10-20 epochs were generally sufficient for GAN-narrate’s Feature Generator Model and Discriminator Model to reach a point of convergence in their loss functions to generate a viable repair feature. 
+GAN-narrate proves successfully in being able to cater to a wide range of damages that might afflict certain handwritten applications, finding success in ‘dashed across’-type damage, smudging-type damage and speckled-type damage. However, GAN-narrate proves to have difficulty in noise-type damage. 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
