@@ -75,7 +75,7 @@ This occurs when there is a loss of features not necessarily confined to a parti
 ### Speckled-type damage repaired with GAN-Narrate: Input Image X with speckled-type damage
 ![image](https://github.com/Kaitan1995/GAN-Narrate/assets/93040738/10498e81-93f1-41a3-bc70-c9762b99ab0e)
 
-### Speckled-type damage repaired with GAN-Narrate: Combined Image Y, after being repaired by GAN-narrate
+### Speckled-type damage repaired with GAN-Narrate: Combined Image Y, after being repaired by GAN-Narrate
 ![image](https://github.com/Kaitan1995/GAN-Narrate/assets/93040738/3b365a99-2d9a-49d1-881a-a0e53685172a)
 
 ### Success and Failure cases for GAN-Narrate’s ability to repair speckled-type damage in 100 examples
@@ -87,7 +87,7 @@ This refers to a loss of features from the existing handwritten digit being sign
 ### Smudging-type damage repaired with GAN-Narrate: Input Image X with smudging-type damage 
 ![image](https://github.com/Kaitan1995/GAN-Narrate/assets/93040738/47962488-5750-4074-99f1-2a9392ee455c)
 
-### Smudging-type damage repaired with GAN-Narrate: Combined Image Y, after being repaired by GAN-narrate
+### Smudging-type damage repaired with GAN-Narrate: Combined Image Y, after being repaired by GAN-Narrate
 ![image](https://github.com/Kaitan1995/GAN-Narrate/assets/93040738/b8a0f978-7f80-4bf2-b16a-a393eddbf063)
 
 ### Success and Failure cases for GAN-Narrate’s ability to repair smudging-type damage in 100 examples
@@ -99,7 +99,7 @@ This occurs when there are additional handwritten features (noise) that adversel
 ### Noise-type damage repaired with GAN-Narrate: Input Image X with noise-type damage
 ![image](https://github.com/Kaitan1995/GAN-Narrate/assets/93040738/6cd16405-06ea-4697-80bd-79ed9040f5c7)
 
-### Noise-type damage repaired with GAN-Narrate: Combined Image Y, after being repaired by GAN-narrate
+### Noise-type damage repaired with GAN-Narrate: Combined Image Y, after being repaired by GAN-Narrate
 ![image](https://github.com/Kaitan1995/GAN-Narrate/assets/93040738/395e1612-ae9a-4ea8-b8d8-22d9da3b5395)
 
 ### Success and Failure cases for GAN-Narrate’s ability to repair noise-type damage in 100 examples
