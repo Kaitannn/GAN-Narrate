@@ -106,7 +106,7 @@ This occurs when there are additional handwritten features (noise) that adversel
 ![image](https://github.com/Kaitan1995/GAN-Narrate/assets/93040738/da8b55e2-493f-46df-a506-f8563bdd8246)
 
 ## Results and Findings
-GAN-Narrate is able to perform in the capacity of detection, assessment, generation of repair features, usage of features to repair the subject image and re-assessment of the subject image. A result of the experiments found that with the current holding parameters, 10-20 epochs were generally sufficient for GAN-narrate’s Feature Generator Model and Discriminator Model to reach a point of convergence in their loss functions to generate a viable repair feature. 
+GAN-Narrate is able to perform in the capacity of detection, assessment, generation of repair features, usage of features to repair the subject image and re-assessment of the subject image. A result of the experiments found that with the current holding parameters, 10-20 epochs were generally sufficient for GAN-Narrate’s Feature Generator Model and Discriminator Model to reach a point of convergence in their loss functions to generate a viable repair feature. 
 GAN-Narrate proves successfully in being able to cater to a wide range of damages that might afflict certain handwritten applications, finding success in ‘dashed across’-type damage, smudging-type damage and speckled-type damage. However, GAN-Narrate proves to have difficulty in noise-type damage. 
 
 
