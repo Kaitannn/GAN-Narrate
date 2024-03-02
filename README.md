@@ -28,7 +28,29 @@
     </div>
   </TD>
   <TD>
-    <div> Test
+    <div> You will be prompted to select .csv input file. Please choose the file "SubjectImage.csv".
+  </TD>
+</TR>
+
+<TR>
+  <TD>
+    <div>
+      <IMG src='https://github.com/KeeBoonHwee/ASTAR_NMC_IWSP/assets/97490747/eeafa090-0a2a-40a4-8960-85cd4d616669' width='300px' />
+    </div>
+  </TD>
+  <TD>
+    <div> You will be prompted to select .csv input file subject. Please choose the corresponding number tied to the subject image that you wish GAN-Narrate to evaluate.
+  </TD>
+</TR>
+
+<TR>
+  <TD>
+    <div>
+      <IMG src='https://github.com/KeeBoonHwee/ASTAR_NMC_IWSP/assets/97490747/eeafa090-0a2a-40a4-8960-85cd4d616669' width='300px' />
+    </div>
+  </TD>
+  <TD>
+    <div> You will be prompted to select the CNN Model. Please choose the CNNModel.pkl file.
   </TD>
 </TR>
 
