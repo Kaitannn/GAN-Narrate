@@ -17,7 +17,7 @@
     </div>
   </TD>
   <TD>
-  <div><b>1) Running of GAN Narrate executable. </b></div><BR>
+  <div><b>1) Running of GAN Narrate Executable </b></div><BR>
   <div>Please run GanNarrate.cmd.</div>
   </TD>
 </TR>
@@ -29,7 +29,7 @@
     </div>
   </TD>
   <TD>
-    <div><b>2) Choosing to feed .csv input file. </b></div><BR>
+    <div><b>2) Choosing to feed .csv Input File </b></div><BR>
     <div> You will be prompted to select .csv input file. Please choose the file "SubjectImage.csv".</div>
   </TD>
 </TR>
@@ -41,7 +41,7 @@
     </div>
   </TD>
   <TD>
-    <div><b>3) Choosing to feed .csv input file subject. </b></div><BR>
+    <div><b>3) Choosing to feed .csv Input File Subject </b></div><BR>
     <div> You will be prompted to select .csv input file subject. Please choose the corresponding number tied to the subject image that you wish GAN-Narrate to evaluate.</div><BR>
     <div> Choose 0 for not broken '1' MNIST image and 1 for broken '1' MNIST image</div>
     <div> Choose 2 for not broken '2' MNIST image and 3 for broken '2' MNIST image</div>
@@ -72,7 +72,7 @@
     </div>
   </TD>
   <TD>
-    <div><b>4) Choosing to select the CNN Model. </b></div><BR>
+    <div><b>4) Choosing to select the CNN Model </b></div><BR>
     <div> You will be prompted to select the pre-trained CNN Model. Please choose the CNNModel.pkl file that holds the parameters used by the pre-trained CNN Model.</div>
   </TD>
 </TR>
@@ -84,7 +84,20 @@
     </div>
   </TD>
   <TD>
-    <div> You will be prompted to select Feature GAN training reference. Please choose the Datasets folder.</div>
+    <div><b>5) Choosing to select the Feature GAN Training Reference </b></div><BR>
+    <div> You will be prompted to select Feature GAN training reference. Please choose the Datasets folder. This holds the training examples used to actively train the Feature GAN Model upon introduction to a broken dataset.</div>
+  </TD>
+</TR>
+
+<TR>
+  <TD>
+    <div>
+      <IMG src='placeholder' width='300px' />
+    </div>
+  </TD>
+  <TD>
+    <div><b>5) Select Folder to store GAN Narrate Model </b></div><BR>
+    <div> You will be prompted to select a folder to store the GAN Narrate model. This folder will simply hold a temporary storage for the parameters of the Feature GAN model, it is callable in the executable and can be used to analyse the paramters of the Feature GAN model after completion of its training. </div>
   </TD>
 </TR>
 
