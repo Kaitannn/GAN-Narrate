@@ -39,6 +39,11 @@
   </TD>
 </TR>
 
+</TABLE>
+<HR>
+</BODY>
+</HTML>
+
 # GAN-Narrate: Enhancing Image Repair with Enumerating Layers in a Supervised-Unsupervised Ensemble Model
 While OCR/ICR has made significant advancements and becoming more prolific such as in the use of translational services, office digitisation  and license plate recognition, OCR/ICR technologies still face many challenges and limitations. It has been reported that OCR/ICR accuracy tends to decrease with complex fonts, decorative typography, and non-standard layouts. Neumann’s and Matas’ research into the use of OCR/ICR found that perspective effects, diverse fonts and languages, differing alignment of real-world text added challenges. Generative neural networks are a class of neural networks used in machine learning that learns to generate new data resembling the original dataset it was trained on. Examples can be images, sounds, or text, that mimic the characteristics of the training data. The GAN framework introduced by Ian Goodfellow and his peers in 2014 is often credited as a breakthrough in the field of GAN. 
 
