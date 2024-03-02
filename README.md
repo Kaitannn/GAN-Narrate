@@ -17,7 +17,7 @@
     </div>
   </TD>
   <TD>
-  <div>Please run GanNarrate.cmd.</div><BR>
+  <div>Please run GanNarrate.cmd.</div>
   </TD>
 </TR>
 
