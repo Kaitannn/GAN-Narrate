@@ -1,4 +1,4 @@
-# How to Utilise
+# How to Run
 <TABLE>
   <colgroup>
        <col span="1" width='300px'>
@@ -17,10 +17,7 @@
     </div>
   </TD>
   <TD>
-  <div><b>Digitalization Project (requires Docker)</b></div><BR>
-  <div>‘app’ folder contains all the source codes pertaining to the web application. The web application is a Python Flask application running on gunicorn.</div><BR>
-  <div>‘tf’ folder contains the IDE environment (Jupyterlab), tools (tensorflow) and third party libraries (spaCy) packaged as a Docker container application, 
-    that I used for all testing, modelling and proof of concepts etc for Digitalization Project.</div>
+  <div>Please run GanNarrate.cmd.</div><BR>
   </TD>
 </TR>
 
