@@ -17,6 +17,7 @@
     </div>
   </TD>
   <TD>
+  <div><b>1) Running of GAN Narrate executable. </b></div><BR>
   <div>Please run GanNarrate.cmd.</div>
   </TD>
 </TR>
@@ -28,6 +29,7 @@
     </div>
   </TD>
   <TD>
+    <div><b>2) Choosing to feed .csv input file. </b></div><BR>
     <div> You will be prompted to select .csv input file. Please choose the file "SubjectImage.csv".</div>
   </TD>
 </TR>
@@ -39,7 +41,27 @@
     </div>
   </TD>
   <TD>
-    <div> You will be prompted to select .csv input file subject. Please choose the corresponding number tied to the subject image that you wish GAN-Narrate to evaluate.</div>
+    <div><b>3) Choosing to feed .csv input file subject. </b></div><BR>
+    <div> You will be prompted to select .csv input file subject. Please choose the corresponding number tied to the subject image that you wish GAN-Narrate to evaluate.</div><BR>
+    <div> Choose 0 for not broken '1' MNIST image and 1 for broken '1' MNIST image</div>
+    <div> Choose 2 for not broken '2' MNIST image and 3 for broken '2' MNIST image</div>
+    <div> Choose 4 for not broken '3' MNIST image and 5 for broken '3' MNIST image</div>
+    <div> Choose 6 for not broken '4' MNIST image and 7 for broken '4' MNIST image</div>
+    <div> Choose 8 for not broken '5' MNIST image and 9 for broken '5' MNIST image</div>
+    <div> Choose 10 for not broken '6' MNIST image and 11 for broken '6' MNIST image</div>
+    <div> Choose 14 for not broken '8' MNIST image and 15 for broken '8' MNIST image</div>
+    <div> Choose 16 for not broken '9' MNIST image and 17 for broken '9' MNIST image</div>
+    <div> Choose 18 for not broken '0' MNIST image and 19 for broken '0' MNIST image</div><BR>
+    <div> Choose 20 for not broken '0' MNIST image and 21 for broken '0' MNIST image - Dashed Across Damage</div>
+    <div> Choose 22 for not broken '1' MNIST image and 23 for broken '1' MNIST image - Dashed Across Damage</div>
+    <div> Choose 24 for not broken '2' MNIST image and 25 for broken '2' MNIST image - Dashed Across Damage</div>
+    <div> Choose 26 for not broken '3' MNIST imageand 27 for broken '3' MNIST image - Dashed Across Damage</div>
+    <div> Choose 22 for not broken '0' MNIST image and 23 for broken '0' MNIST image - Noise Damage</div>
+    <div> Choose 24 for not broken '0' MNIST image and 25 for broken '0' MNIST image - Half of Image Missing (Damage)</div>
+    <div> Choose 26 for not broken '0' MNIST image and 27 for broken '0' MNIST image - 3/4 of Image Missing (Damage)</div>
+    <div> Choose 28 for not broken '8' MNIST image and 29 for broken '8' MNIST image - 3/4 of Image Missing/Dashed Across Damage </div>
+    <div> Choose 30 for not broken '6' MNIST image and 31 for broken '6' MNIST image - Trying to use contentious image </div>
+    <div> Choose 32 for not broken '6' MNIST image and 33 for broken '6' MNIST image - Trying to use contentious image (Might look like 6) </div>
   </TD>
 </TR>
 
