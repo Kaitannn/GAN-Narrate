@@ -28,11 +28,7 @@
     </div>
   </TD>
   <TD>
-    <div><b>Bunkering (Blackbox) Project (requires Docker)</b></div><BR>
-    <div>‘app’ folder contains all the source codes pertaining to the web application. The web application is a Python Flask application running on gunicorn.</div><BR>
-    <div>‘tf’ folder contains the IDE environment (Jupyterlab), tools (tensorflow) and third party libraries (spaCy) packaged as a Docker container application, 
-      that I used for all testing, modelling and proof of concepts etc for Bunkering (Blackbox) project.</div><BR>
-    <div>‘models’ folder contains all past and present models ever developed for Bunkering (Blackbox) project.</div>
+    <div> Test
   </TD>
 </TR>
 
