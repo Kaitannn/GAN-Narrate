@@ -28,7 +28,7 @@
     </div>
   </TD>
   <TD>
-    <div> You will be prompted to select .csv input file. Please choose the file "SubjectImage.csv".
+    <div> You will be prompted to select .csv input file. Please choose the file "SubjectImage.csv".</div>
   </TD>
 </TR>
 
@@ -39,7 +39,7 @@
     </div>
   </TD>
   <TD>
-    <div> You will be prompted to select .csv input file subject. Please choose the corresponding number tied to the subject image that you wish GAN-Narrate to evaluate.
+    <div> You will be prompted to select .csv input file subject. Please choose the corresponding number tied to the subject image that you wish GAN-Narrate to evaluate.</div>
   </TD>
 </TR>
 
@@ -50,7 +50,7 @@
     </div>
   </TD>
   <TD>
-    <div> You will be prompted to select the CNN Model. Please choose the CNNModel.pkl file.
+    <div> You will be prompted to select the CNN Model. Please choose the CNNModel.pkl file.</div>
   </TD>
 </TR>
 
