@@ -13,7 +13,7 @@
 <TR>
   <TD>
     <div>
-      <IMG src='https://github.com/KeeBoonHwee/ASTAR_NMC_IWSP/assets/97490747/f711eb6c-779d-4ac1-a887-e9c2994e4326' width='300px' />
+      <IMG src='placeholder' width='300px' />
     </div>
   </TD>
   <TD>
@@ -24,7 +24,7 @@
 <TR>
   <TD>
     <div>
-      <IMG src='https://github.com/KeeBoonHwee/ASTAR_NMC_IWSP/assets/97490747/eeafa090-0a2a-40a4-8960-85cd4d616669' width='300px' />
+      <IMG src='placeholder' width='300px' />
     </div>
   </TD>
   <TD>
@@ -35,7 +35,7 @@
 <TR>
   <TD>
     <div>
-      <IMG src='https://github.com/KeeBoonHwee/ASTAR_NMC_IWSP/assets/97490747/eeafa090-0a2a-40a4-8960-85cd4d616669' width='300px' />
+      <IMG src='placeholder' width='300px' />
     </div>
   </TD>
   <TD>
@@ -46,7 +46,7 @@
 <TR>
   <TD>
     <div>
-      <IMG src='https://github.com/KeeBoonHwee/ASTAR_NMC_IWSP/assets/97490747/eeafa090-0a2a-40a4-8960-85cd4d616669' width='300px' />
+      <IMG src='placeholder' width='300px' />
     </div>
   </TD>
   <TD>
@@ -57,7 +57,7 @@
 <TR>
   <TD>
     <div>
-      <IMG src='https://github.com/KeeBoonHwee/ASTAR_NMC_IWSP/assets/97490747/eeafa090-0a2a-40a4-8960-85cd4d616669' width='300px' />
+      <IMG src='placeholder' width='300px' />
     </div>
   </TD>
   <TD>
