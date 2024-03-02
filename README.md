@@ -72,7 +72,8 @@
     </div>
   </TD>
   <TD>
-    <div> You will be prompted to select the CNN Model. Please choose the CNNModel.pkl file.</div>
+    <div><b>4) Choosing to select the CNN Model. </b></div><BR>
+    <div> You will be prompted to select the pre-trained CNN Model. Please choose the CNNModel.pkl file that holds the parameters used by the pre-trained CNN Model.</div>
   </TD>
 </TR>
 
