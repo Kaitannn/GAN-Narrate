@@ -6,8 +6,8 @@
   </colgroup>
   
   <TR>
-    <TH width='300px'>Folder Structure</TH>
-    <TH>Folder Description</TH>
+    <TH width='300px'>Instruction Structure</TH>
+    <TH>Instruction Description</TH>
   </TR>
   
 <TR>
