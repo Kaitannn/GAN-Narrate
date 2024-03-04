@@ -101,6 +101,18 @@
   </TD>
 </TR>
 
+<TR>
+  <TD>
+    <div>
+      <IMG src='placeholder' width='300px' />
+    </div>
+  </TD>
+  <TD>
+    <div><b>7) Press Continue </b></div><BR>
+    <div> Please press continue to enable continuation. </div>
+  </TD>
+</TR>
+
 </TABLE>
 <HR>
 </BODY>
