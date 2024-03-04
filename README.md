@@ -97,7 +97,7 @@
   </TD>
   <TD>
     <div><b>6) Select Folder to store GAN Narrate Model </b></div><BR>
-    <div> You will be prompted to select a folder to store the GAN Narrate model. This folder will simply hold a temporary storage for the parameters of the Feature GAN model, it is callable and will be called when Feature GAN is made to produce a feature. Can be used to analyse the paramters of the Feature GAN model after completion of its training to understand its characteristics. </div>
+    <div> You will be prompted to select a folder to store the GAN Narrate model. This folder will simply hold a temporary storage for the parameters of the Feature GAN model, it is callable and will be called when Feature GAN is made to produce a feature. Can be used to analyse the parameters of the Feature GAN model after completion of its training to understand its characteristics. </div>
   </TD>
 </TR>
 
