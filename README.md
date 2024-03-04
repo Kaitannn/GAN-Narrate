@@ -18,7 +18,7 @@
   </TD>
   <TD>
   <div><b>1) Running of GAN Narrate Executable </b></div><BR>
-  <div>Please run GanNarrate.cmd.</div>
+  <div>Run GanNarrate.cmd.</div>
   </TD>
 </TR>
 
@@ -30,7 +30,7 @@
   </TD>
   <TD>
     <div><b>2) Choosing to feed .csv Input File </b></div><BR>
-    <div> You will be prompted to select .csv input file. Please choose the file "SubjectImage.csv".</div>
+    <div> You will be prompted to select .csv input file. This contains the list of input subject images to be processed by GAN-Narrate. Please choose the file "SubjectImage.csv" that contains the list of input subject images.</div>
   </TD>
 </TR>
 
@@ -42,7 +42,7 @@
   </TD>
   <TD>
     <div><b>3) Choosing to feed .csv Input File Subject </b></div><BR>
-    <div> You will be prompted to select .csv input file subject. Please choose the corresponding number tied to the subject image that you wish GAN-Narrate to evaluate.</div><BR>
+    <div> You will be prompted to select .csv input file subject. Please choose the corresponding number tied to the subject image that you wish GAN-Narrate to evaluate. Even numbers are the undamaged input subject images. Odd numbers are the damaged input subject images. </div><BR>
     <div> Choose 0 for not broken '1' MNIST image and 1 for broken '1' MNIST image</div>
     <div> Choose 2 for not broken '2' MNIST image and 3 for broken '2' MNIST image</div>
     <div> Choose 4 for not broken '3' MNIST image and 5 for broken '3' MNIST image</div>
@@ -97,7 +97,7 @@
   </TD>
   <TD>
     <div><b>6) Select Folder to store GAN Narrate Model </b></div><BR>
-    <div> You will be prompted to select a folder to store the GAN Narrate model. This folder will simply hold a temporary storage for the parameters of the Feature GAN model, it is callable in the executable and can be used to analyse the paramters of the Feature GAN model after completion of its training. </div>
+    <div> You will be prompted to select a folder to store the GAN Narrate model. This folder will simply hold a temporary storage for the parameters of the Feature GAN model, it is callable and will be called when Feature GAN is made to produce a feature. Can be used to analyse the paramters of the Feature GAN model after completion of its training to understand its characteristics. </div>
   </TD>
 </TR>
 
