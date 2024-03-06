@@ -13,7 +13,7 @@
 <TR>
   <TD>
     <div>
-      <IMG src='placeholder' width='300px' />
+      <IMG src=https://github.com/Kaitannn/GAN-Narrate/assets/93040738/7d5cb80e-96f1-4690-ac3c-8fb47a477cda width='300px' />
     </div>
   </TD>
   <TD>
@@ -25,7 +25,7 @@
 <TR>
   <TD>
     <div>
-      <IMG src='placeholder' width='300px' />
+      <IMG src=https://github.com/Kaitannn/GAN-Narrate/assets/93040738/a50dd7ed-880b-4fec-a954-9dedad3b6826 width='300px' />
     </div>
   </TD>
   <TD>
@@ -37,7 +37,7 @@
 <TR>
   <TD>
     <div>
-      <IMG src='placeholder' width='300px' />
+      <IMG src=https://github.com/Kaitannn/GAN-Narrate/assets/93040738/a9646d33-3e22-4aae-a286-1f84b1bf5bb9 width='300px' />
     </div>
   </TD>
   <TD>
@@ -68,7 +68,7 @@
 <TR>
   <TD>
     <div>
-      <IMG src='placeholder' width='300px' />
+      <IMG src=https://github.com/Kaitannn/GAN-Narrate/assets/93040738/fafae5ca-b74d-4a87-8e2a-69bac900e624 width='300px' />
     </div>
   </TD>
   <TD>
@@ -80,7 +80,7 @@
 <TR>
   <TD>
     <div>
-      <IMG src='placeholder' width='300px' />
+      <IMG src=https://github.com/Kaitannn/GAN-Narrate/assets/93040738/d59ff0b1-3bbd-4a14-a926-15a820c2553f width='300px' />
     </div>
   </TD>
   <TD>
@@ -92,7 +92,7 @@
 <TR>
   <TD>
     <div>
-      <IMG src='placeholder' width='300px' />
+      <IMG src=https://github.com/Kaitannn/GAN-Narrate/assets/93040738/da5ffac0-1112-4d45-9759-e725ffd8a1e4 width='300px' />
     </div>
   </TD>
   <TD>
@@ -104,7 +104,7 @@
 <TR>
   <TD>
     <div>
-      <IMG src='placeholder' width='300px' />
+      <IMG src=https://github.com/Kaitannn/GAN-Narrate/assets/93040738/5cbad03a-4171-4276-9ba1-e3635085c24e width='300px' />
     </div>
   </TD>
   <TD>
